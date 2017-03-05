@@ -68,3 +68,4 @@ Join the mailing-list [here](http://groups.google.com/group/powermock) for quest
 ## Sponsored by:
 [![JAYWAY](http://www.jayway.com/wp-content/uploads/2014/05/jayway_rgb_inverted.png)](http://www.jayway.com/)
 
+
